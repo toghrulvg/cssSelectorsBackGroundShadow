@@ -1,0 +1,30 @@
+.home{
+    background-color: rgb(255, 150, 0);
+}
+
+.home span{
+    color: rgb(255, 150, 211) ;
+}
+
+.home p{
+    
+    font-weight: 600;
+    color: rgb(180, 150, 211);
+}
+
+.ss{
+    width: 200px;
+    border-radius: 200px;
+    font-size: 50px;
+    font-weight: 600;
+    color: rgb(180, 150, 211);
+}
+
+.ss:hover{
+    color:blueviolet;
+    border: 1px solid red;
+    text-shadow: -3px 3px rgb(255, 150, 211),
+            3px 3px 0 greenyellow,
+            3px 3px 0 red,
+            -3px -3px 0 green
+}
